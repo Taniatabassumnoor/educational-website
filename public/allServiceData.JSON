@@ -1,0 +1,64 @@
+
+[
+    {    "id":1,
+        "title": "Genetics",
+        "price":17000 ,
+        "image": "https://images.unsplash.com/photo-1582719471137-c3967ffb1c42?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=772&q=80"
+    },
+    {    "id":2,
+        "title": "Engineering",
+        "price":15000 ,
+        "image": "https://images.unsplash.com/photo-1596496181848-3091d4878b24?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+    },
+    {    "id":3,
+        "title": "Science",
+        "price":19000 ,
+        "image": "https://images.unsplash.com/photo-1583912268183-a34d41fe464a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+    },
+    {    "id":4,
+        "title": "History",
+        "price":11000 ,
+        "image": "https://images.unsplash.com/photo-1526559881144-9df4bf3eb37a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1471&q=80"
+    },
+    {    "id":5,
+        "title": "English Literature",
+        "price":13000 ,
+        "image": "https://images.unsplash.com/photo-1543109740-4bdb38fda756?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+    },
+    {    "id":6,
+        "title": "Mathematics",
+        "price":16000 ,
+        "image": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1474&q=80"
+    },
+    {    "id":7,
+        "title": "Fisheries",
+        "price":22000 ,
+        "image": "https://images.unsplash.com/photo-1627241711138-5aca3a7545db?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+    },
+    {    "id":8,
+        "title": "Architecture",
+        "price":21000 ,
+        "image": "https://images.unsplash.com/photo-1608303588026-884930af2559?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=703&q=80"
+    },
+    {    "id":9,
+        "title": "Physics",
+        "price":17000 ,
+        "image": "https://images.unsplash.com/photo-1567664883526-8f401f277a27?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1430&q=80"
+    },
+    {    "id":10,
+        "title": "Finance",
+        "price":12000 ,
+        "image": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+    },
+    {    "id":11,
+        "title": "Psychology",
+        "price":25000 ,
+        "image": "https://images.unsplash.com/photo-1609074489183-e444f13c6707?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+    },
+    {    "id": 12,
+        "title": "Agriculture",
+        "price":26000 ,
+        "image": "https://images.unsplash.com/photo-1492496913980-501348b61469?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+    }
+]
+

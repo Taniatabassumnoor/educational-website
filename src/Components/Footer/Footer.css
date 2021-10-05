@@ -1,0 +1,8 @@
+/* footer-section  */
+.footer-content{
+    display: flex;
+    padding: 40px 0;
+    justify-content: space-evenly;
+    background-color: rgba(19, 18, 18, 0.877);
+    color: rgba(255, 255, 255, 0.795);
+}

@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.items {
+    list-style: none;
+    margin-right: 30px;
+    font-size: 22px;
+    font-weight: 500;
+    color: rgb(218, 214, 214);
+    cursor: pointer;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .items:hover {
+    color: rgb(221, 5, 5);
+  }
+ .navigation{
+    display: flex;
+    justify-content: space-between;
+ } 
+ .navigation ul{
+     display: flex;
+     justify-content: space-evenly;
+     margin-bottom: 4%;
+ }
